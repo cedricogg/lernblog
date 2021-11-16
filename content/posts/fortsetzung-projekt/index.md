@@ -3,6 +3,7 @@ title = "Fortsetzung Projekt"
 date = "2021-11-16"
 draft = false
 pinned = false
+image = "monitor-ge9b978578_640.jpg"
 +++
 # **Die Fotos und die Konstruktion des Internetauftritts**
 
