@@ -11,4 +11,6 @@ Uns ist die Registration über Google sehr gut gelungen. Es war wirklich einfach
 
 Selbstverständlich ist dieses Projekt nicht als fertig anzusehen, zumal die Webseite noch Aufwand braucht, ganz zu  Schweigen von Social Media ist nach Absprache mit dem Kunden noch mehr geplant. Auf jeden Fall werden wir uns in die tiefe Welt des Internetmarketing stürzen und unsere Skills dort weiter vertiefen. 
 
+Vertiefen, experimentieren und optimieren. Dabei ist besagtes Suchmaschinenmarketing nur ein kleiner Bestandteil einer grossen breiten Welt des Internetmarketings. Wir sind gewillt verschiedene Arten zu testen. Wir passen aber unsere Konzepte dem Unternehmen und der Zielgruppe an. So z.B. warten wir auf den richtigen Kunden um anderes zu testen. Beispielsweise Affiliate Marketing. Oder auch E-Mail Marketing, dabei geht es vor allem um Newsletters, um vorhandene Kunden weiterhin an uns zu binden.
+
 Generell ist uns die Arbeit leicht gefallen und hat über weite Strecken spass gemacht. Das lag daran, dass wir ordentlich Zeit hatten auch diverse Dinge zu testen. Des Weiteren hatten wir im Hinterkopf dass wir uns bei unserer Lehrperson jederzeit melden hätten können.
