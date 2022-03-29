@@ -6,8 +6,6 @@ pinned = false
 +++
 Meine grundsätzliche Idee hatte ich vor 2 Wochen. Mein Plan war es, andere Personen beim Anlegen von Geld (online), sowie vor allem dem Handel mit Kryptowährungen zu unterstützen. Dazu benötigt man einen sogenannten "Cryptowallet". Meine Dienstleistung wäre es, zu den jeweiligen Anbietern differenzierte Vergleiche anzubieten. Dabei sind einige Punkte zu beachten, später kommen wir nochmal darauf zurück.
 
-
-
 Doch erstmal vorne weg; **Was sind eigentlich Kryptowährungen?**
 
 Wie der Name es schon verrät ist es eine Währung, womit man verschiedene Dinge bezahlen kann. Das Kernmerkmal besagter Währung ist, dass es sogenannt dezentralisiert ist. Sprich, der Staat hat keinerlei direkten Einfluss auf die Wertentwicklung dieser Währung. Der Kurs der Währung lässt sich also ausschliesslich von Angebot und Nachfrage beeinflussen. 
@@ -20,10 +18,14 @@ Die bekanntesten Kryptowährungen sind Bitcoin und Ethereum. Es gibt jedoch noch
 
 Unten, ein zwischenzeitliches Ranking der wertvollsten Kryptowährungen.
 
-
-
 ![](kryptowährungen.jpeg)
 
 **\*Blockchain:**
 
 Der Name Blockchain leitet sich von der Dokumentationsart der Daten ab, sprich Blöcke von Datensätzen werden aneinander gereiht und zu einer stetig wachsenden Blockchain verknüpft. Im Falle von Kryptowährungen, werden auf der Blockchain alle Transaktionen chronologisch aneinandergereiht. Der Inhalt einer Blockchain zu verändern ist quasi unmöglich. Eine Blockchain wird quasi als ein verteiltes Register geführt. Alle Beteiligten speichern sozusagen eine Kopie und führen diese fort.
+
+
+
+**1. Schritt vor dem investieren in eine Währung**
+
+Wie
