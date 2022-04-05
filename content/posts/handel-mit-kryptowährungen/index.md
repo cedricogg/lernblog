@@ -26,6 +26,25 @@ Der Name Blockchain leitet sich von der Dokumentationsart der Daten ab, sprich
 
 
 
-**1. Schritt vor dem investieren in eine Währung**
+**1. Vor dem Investment ; Die Krypto-Wallet**
 
-Wie
+Um eine Kryptowährung kaufen zu können braucht man eine Wallet (engl. für Brieftasche). Hierbei kann man zwischen Cold Wallet und Hot Wallet unterscheiden. Diese beiden Arten von Wallets unterscheiden sich im Bezug auf den Sicherheitsstandard, sowie bei der Nutzerfreundlichkeit und weiteren anderen Punkten. Dadurch sind sie für verschiedene Anlegertypen je nachdem mehr, oder weniger geeignet. Zum einen gibt es Kryptobörsen, die wahrscheinlich bekanntesten Beispiele sind Binance und Coinbase. Sobald man sich auf einer solchen registriert, wird automatisch eine Hot-Wallet erstellt. \
+Die andere Option ist eben eine Cold Wallet, diese kann man online erwerben. Es ist eine Art Festplatte, es dient als analoges, externes Speichermedium. Es kann sehr einfach im Internet erworben werden. 
+
+**Hot-Wallet:**
+
++hohe Nutzerfreundlichkeit + Kundensupport
+
++ Geeignet für kurzfristige Anlagen, da man sehr einfach auf Tagesgeschehen reagieren kann und das kaufen bzw. verkaufen bzw. in andere Währungen gewechselt werden.
+
+–  Dadurch, dass es Online ist, ist die Gefahr von Hackangriffen allgegenwärtig.
+
+**Cold-Wallet:**
+
++ Sehr minimierte Hacking-Gefahr
+
++ Für langfristige Anlage
+
+–  Nicht sehr anfängerfreundlich 
+
+– Weniger geeignet für schnelle Käufe, Verkäufe oder Tauschgeschäfte.
