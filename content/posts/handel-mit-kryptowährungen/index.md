@@ -48,3 +48,13 @@ Die andere Option ist eben eine Cold Wallet, diese kann man online erwerben. Es 
 –  Nicht sehr anfängerfreundlich 
 
 – Weniger geeignet für schnelle Käufe, Verkäufe oder Tauschgeschäfte.
+
+
+
+Wie man erahnen kann gibt es quasi unendliche Wallet-Anbieter, da es ein wachsender und lukrativer Markt ist. Fürs erste würde ich einen Hot-Wallet auf einer dezentralisierten Seite empfehlen. Man muss allerdings immer bedenken, dass Anbieter auch profitieren. So also gibt es z.B. bei Ethereum sogenannte "Gas-fees", was zugleich die Gewinnmarche des Anbieters darstellt. In der Regel ist es nicht unendlich viel, aber das variiert auch von Währung zu Währung und von Anbieter zu Anbieter.
+
+
+
+Die wahrscheinlich beliebtesten Hot-Wallets sind bitpanda, crypto.com und vor allem Coinbase und Binance. Hier gilt allerdings Vorsicht bei der Auswahl. Es gibt ein sehr breitflächiges Angebot, Beispielsweise kann man von  Binance Kryptos quasi kostenfrei zu MetaMask transferieren, MetaMask wiederum funktioniert gut mit OpenSea, wo man vor allem NFTs (Non-Fungible-Tokens) kaufen kann. Es gibt viele solcher Beispiele und darüber sollte man den Überblick behalten. 
+
+Gerne weise ich hierbei auf meinen Newsletter hin, wo alles kurz gefasst wurde. Sowie monatlich Neuigkeiten im Bereich Kryptos erscheinen.
