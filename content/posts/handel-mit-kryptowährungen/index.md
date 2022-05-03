@@ -5,13 +5,13 @@ draft = false
 pinned = false
 image = "webaufnahme_3-5-2022_152556_www.shutterstock.com.jpeg"
 +++
-**Einstieg in den Handel mit Kryptowährungen**
+# **Einstieg in den Handel mit Kryptowährungen**
 
-Viele Leute sehen die Kursentwicklung von Kryptowährungen wie Bitcoin oder Ethereum. Aus diesem Grund beginnen immer mehr Leute in Kryptos zu investieren. Dazu braucht man erstmal einen geeigneten Kryptowallet. Doch schon dabei gibt es allerlei Arten von Wallets.
+Viele Leute sehen die Kursentwicklung von Kryptowährungen wie Bitcoin oder Ethereum. Aus diesem Grund beginnen immer mehr Leute in Kryptos zu investieren. Somit entsteht ein grosses Marktwachstum. Dazu braucht man erstmal einen geeigneten Kryptowallet. Doch schon dabei gibt es allerlei Arten von Wallets.
 
 Meine Dienstleistung wäre es, zu den jeweiligen Anbietern differenzierte Vergleiche anzubieten. Sowie Tipps und Informationen über den Handel mit Kryptowährungen bereitzustellen. Dazu biete ich einen relativ günstigen Newsletter an, in den all dies zu finden ist. Sowie immer aktuelle Informationen zu den verschiedenen Kryptowährungen.
 
-Doch erstmal vorne weg, **Was sind eigentlich Kryptowährungen?**
+#### Doch erstmal vorne weg, w**as sind eigentlich Kryptowährungen?**
 
 Wie der Name es schon verrät ist es eine Währung, womit man verschiedene Dinge bezahlen kann. Das Kernmerkmal besagter Währung ist, dass es sogenannt dezentralisiert ist. Sprich, der Staat hat keinerlei direkten Einfluss auf die Wertentwicklung dieser Währung. Der Kurs der Währung lässt sich also ausschliesslich von Angebot und Nachfrage beeinflussen. 
 
@@ -25,16 +25,16 @@ Unten, ein zwischenzeitliches Ranking der wertvollsten Kryptowährungen.
 
 ![](kryptowährungen.jpeg)
 
-**\*Blockchain:**
+#### **\*Blockchain:**
 
 Der Name Blockchain leitet sich von der Dokumentationsart der Daten ab, sprich Blöcke von Datensätzen werden aneinander gereiht und zu einer stetig wachsenden Blockchain verknüpft. Im Falle von Kryptowährungen, werden auf der Blockchain alle Transaktionen chronologisch aneinandergereiht. Der Inhalt einer Blockchain zu verändern ist quasi unmöglich. Eine Blockchain wird quasi als ein verteiltes Register geführt. Alle Beteiligten speichern sozusagen eine Kopie und führen diese fort.
 
-**1. Vor dem Investment ; Die Krypto-Wallet**
+### **1. Vor dem Investment ; Die Krypto-Wallet**
 
 Um eine Kryptowährung kaufen zu können braucht man eine Wallet (engl. für Brieftasche). Hierbei kann man zwischen Cold Wallet und Hot Wallet unterscheiden. Diese beiden Arten von Wallets unterscheiden sich im Bezug auf den Sicherheitsstandard, sowie bei der Nutzerfreundlichkeit und weiteren anderen Punkten. Dadurch sind sie für verschiedene Anlegertypen je nachdem mehr, oder weniger geeignet. Zum einen gibt es Kryptobörsen, die wahrscheinlich bekanntesten Beispiele sind Binance und Coinbase. Sobald man sich auf einer solchen registriert, wird automatisch eine Hot-Wallet erstellt. \
 Die andere Option ist eben eine Cold Wallet, diese kann man online erwerben. Es ist eine Art Festplatte, es dient als analoges, externes Speichermedium. Es kann sehr einfach im Internet erworben werden. 
 
-**Hot-Wallet:**
+### **Hot-Wallet:**
 
 +hohe Nutzerfreundlichkeit + Kundensupport
 
@@ -42,7 +42,7 @@ Die andere Option ist eben eine Cold Wallet, diese kann man online erwerben. Es 
 
 –  Dadurch, dass es Online ist, ist die Gefahr von Hackangriffen allgegenwärtig.
 
-**Cold-Wallet:**
+### **Cold-Wallet:**
 
 +Sehr minimierte Hacking-Gefahr
 
@@ -62,7 +62,7 @@ Gerne weise ich hierbei auf meinen Newsletter hin, dort findet man eine detailli
 
 Nun müssen wir uns vor der Investition nur noch informieren. Das ist aber der schwierigste und wichtigste Schritt beim Handel. Kryptos haben eine sehr starke Volatilität, sprich sie schwanken sehr stark. Man kann vom einen Tag auf den anderen Sehr viel gewinnen oder auch verlieren. Das heisst, es ist immer mit ordentlichem Risiko verbunden.
 
-Um das Risiko ein wenig zu minimieren, habe ich einige **Wichtige Tipps** zusammengestellt
+###### Um das Risiko ein wenig zu minimieren, habe ich einige **Wichtige Tipps** zusammengestellt
 
 * Kaufe ausschliesslich, wenn du verstehst, weswegen ein Coin wertvoll sein soll bzw. Potenzial hat.
 * Denk an die Gebühren beim Kaufen, es ist schwieriger Profit zu holen, als Verlust. Am besten man benutzt ETH für die Transaktion, dabei sind die Gebühren eher tief.
@@ -76,11 +76,7 @@ Um das Risiko ein wenig zu minimieren, habe ich einige **Wichtige Tipps** zusamm
 
   Du willst 1 XRP kaufen, aber bist dir nicht sicher ob es der passende Zeitpunkt ist, also kaufst du 10 Wochen lang regelmässig 0.1 XRP, folglich zu verschiedenen Preisen, dann hast du für 1 XRP den Durchschnittspreis der letzten 10 Wochen bezahlt.
 
-
-
-Gerne verweise ich abermals auf meinen Newsletter, welcher folgendes beinhaltet:
-
-
+### Gerne verweise ich abermals auf meinen Newsletter, welcher folgendes beinhaltet:
 
 * Allgemeine Infos zur Kryptobranche
 * Steckbriefe und Aktuelle Informationen zu einzelnen Coins
@@ -90,4 +86,4 @@ Gerne verweise ich abermals auf meinen Newsletter, welcher folgendes beinhaltet:
 * Kryptos mit Potenzial
 * Persönliche Erfahrungen und Einschätzungen
 
-Bei Interesse an meinen Dienstleistungen, schreiben Sie mir eine E-Mail auf: cedric.ogg04@gmail.com
+Bei Interesse an meinen Dienstleistungen bzw. dem Newsletter, schreiben Sie mir eine E-Mail auf: cedric.ogg04@gmail.com
